@@ -1,0 +1,25 @@
+//---------------------------------------------------------------------------
+ #include <vcl.h>
+#ifndef CallerIDH
+#define CallerIDH
+
+class callerID
+{
+  private:
+	TDate Date;
+	AnsiString sTime;
+	AnsiString eTime;
+	int lineUsed;
+	int digits;
+	AnsiString ISP;
+   public:
+	callerID();
+	void setValues(AnsiString,AnsiString,AnsiString, AnsiString,AnsiString,AnsiString);
+	AnsiString getNumbers();
+	TDate getDate();
+	AnsiString createForm();
+
+
+};
+//---------------------------------------------------------------------------
+#endif

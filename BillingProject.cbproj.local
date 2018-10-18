@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/21 04:32:51.000.679,=C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/08/21 04:32:55.000.998,=C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/08/21 04:33:59.000.998,C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\TPGWerkstuffs2017\TPG201T_S2_CPP_Buitendag\Assesments\TPG201T_PracWebTest1_S2_2017\CallaBilling\BillingUnit.h</Transaction>
+    <Transaction>2017/08/21 04:33:59.000.999,C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\TPGWerkstuffs2017\TPG201T_S2_CPP_Buitendag\Assesments\TPG201T_PracWebTest1_S2_2017\CallaBilling\BillingUnit.dfm</Transaction>
+    <Transaction>2017/08/21 04:33:59.000.998,C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\TPGWerkstuffs2017\TPG201T_S2_CPP_Buitendag\Assesments\TPG201T_PracWebTest1_S2_2017\CallaBilling\BillingUnit.cpp</Transaction>
+    <Transaction>2017/08/21 04:34:10.000.641,C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\TPGWerkstuffs2017\TPG201T_S2_CPP_Buitendag\Assesments\TPG201T_PracWebTest1_S2_2017\CallaBilling\BillingProject1PCH.h</Transaction>
+    <Transaction>2017/08/21 04:34:18.000.661,C:\Users\Bertie Buitendag\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\TPGWerkstuffs2017\TPG201T_S2_CPP_Buitendag\Assesments\TPG201T_PracWebTest1_S2_2017\CallaBilling\BillingProject.cbproj</Transaction>
+    <Transaction>2017/08/30 23:44:27.000.594,=C:\Users\NJIBBS\Downloads\Compressed\CallaBilling_B\CallaBilling_B\Unit1.cpp</Transaction>
+    <Transaction>2017/08/30 23:44:54.000.632,C:\Users\NJIBBS\Downloads\Compressed\CallaBilling_B\CallaBilling_B\CallerID.h=C:\Users\NJIBBS\Downloads\Compressed\CallaBilling_B\CallaBilling_B\Unit1.h</Transaction>
+    <Transaction>2017/08/30 23:44:54.000.632,C:\Users\NJIBBS\Downloads\Compressed\CallaBilling_B\CallaBilling_B\CallerID.cpp=C:\Users\NJIBBS\Downloads\Compressed\CallaBilling_B\CallaBilling_B\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
